@@ -4,7 +4,7 @@ Developing modules for teaching beginners in R with culturally-aware environment
 
 read more here: https://indigenousenvdatasci.github.io/ieds_site/
 
-more information to come
+Check back here later for more information on downloading, modifying, and teaching the modules 
 
 <!--
 
